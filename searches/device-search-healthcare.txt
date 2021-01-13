@@ -1,0 +1,85 @@
+dicom;Dicom
+zoll;Zoll
+perioperative;GE Perioperative
+wall_of_analytics;Wall of Analytics
+viztek_exa;VIZTEK EXA
+medweb;Medweb
+intuitim;Intuitim
+medcon_archiving_system;Medcon Archiving System
+orthanc_explorer;Orthanc Explorer
+osirix;OsiriX
+clari_pacs;ClariPACS
+siste_lab;SisteLAB
+opalweb;Opalweb
+neuropro;Neuropro
+tmw_document_imaging;TMW Document Imaging
+erez;eRez Imaging
+gluco_care;GlucoCare igc
+glucose_guide;Glucose guide
+grandmed_glucose;Grandmed Glucose
+philips_digital_pathology;Philips Digital Pathology
+tricore_pathology;Tricore Pathology
+appsmart_ophthalmology;Appsmart Pathology
+chs_ophthalmology;CHS Ophthalmology
+ram_soft;RamSoft
+xnat;XNAT
+iris_emr;Iris EMR
+eclinicalworks_emr;eClinicalWorks EMR
+open_emr;OpenEMR
+oscar_emr;OSCAR EMR
+wm_emr;WM EMR
+doctors_partner_emr;DoctorsPartner EMR
+mckesson_radiology;McKesson Radiology
+kodak_carestream;KODAK CARESTREAM PACS
+meded;MedEd
+centricity_radiology;Centricity Radiology
+openeyes;OpenEyes
+orthanc;Orthanc
+horos;Horos
+open_mrs;OpenMRS
+mirth_connect;Mirth Connect
+acuity_logic;AcuityLogic
+optical_coherence_tomography;Optical Coherence Tomography
+philips_intellispace;Philips Intellispace
+vitrea_intelligence;Vitrea intelligence
+phenom_electron_microscope;Phenom-World Microscope
+meddream_dicom_viewer;MedDream DICOM Viewer
+merge_pacs;Merge PACS
+synapse_3d;Synapse 3D
+navify;NAVIFY® Oncology Workflow
+telemis_tmp;Telemis TMP
+brainlab;Brainlab
+nexus360;Nexus360
+brain_scope;BrainScope
+omero_microscopy;OMERO Microscopy
+meditech;Meditech
+cynetics;Cynetics
+promed;Promed
+carestream;Carestream
+carestream_web;Carestream web
+vet_rocket;Vet Rocket
+vet_view;VetView
+lumed;LUMED
+infinitt;INFINITT
+labtech;Labtech
+progetti;Progetti
+qt_medical;QT Medical
+huvitz_optometric;Huvitz Optometric
+optos_advance;OptosAdvance
+optovue;Optovue
+asthma_monitoring_adamm;Asthma Monitoring ADAMM
+pregnabit;Pregnabit
+prime_clinical_systems;Prime Clinical Systems
+omni_explorer;OmniExplorer
+avizia;Avizia
+operamed;Operamed
+early_sense;EarlySense
+tunstall;Tunstall
+clini_net;CliniNet
+intelesens;Intelesens
+kb_port;KbPort
+nursecall_message_service;Nursecall Message Service
+image_information_systems;IMAGE Information Systems
+agilent_technologies;Agilent Technologies
+praxis_portal2;Medigration PraxisPortal2
+xero_viewer;XERO Viewer

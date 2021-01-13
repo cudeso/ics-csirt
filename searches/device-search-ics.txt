@@ -1,0 +1,108 @@
+niagara;Niagara
+modbus;Modbus
+bacnet;BacNET
+siemens;Siemens
+ethernetip;Ethernet/IP
+dnp3;DNP3
+gestrip;General Electric
+hart;HartIP
+pcworx;PcWorx
+mitsubishi;Mitsubishi
+omron;Omron
+redlion;RedLion
+codesys;Codesys
+iec;IEC
+proconos;ProconOS
+plantvisor;PlantVisor
+moxa;Moxa
+akcp;AKCP
+spidercontrol;SpiderControl
+tank;Tanks
+iq3;IQ3
+ISis22;IS2
+iologik;Iologik
+vtscada;VTScada
+zworld;Z-World
+nordex;Nordex
+axc;AXC PLC
+modicon;Modicon
+xp277;XP277 HMI
+vxworks;VxWorks
+eig;Nexus 1500
+digi;Digi Transport
+windweb;Windcube
+moxahttp;Moxahttp
+lantronix;Lantronix
+entelitouch;Delta enteliTouch
+energyict_rtu;EnergyICT
+crestron;Crestron
+ipc@chip;IPC@CHIP
+addup;AdduPI
+anybus;AnyBus
+wago;Wago
+niagara_audit;Niagara Audit
+niagara_web_server;Niagara Web Server
+trendnet;Trendnet
+stulz_klimatechnik;Stulz Klimatechnik
+somfy;Somfy
+scalance;Scalance
+simatic;Simatic
+simatic_s7;Simatic S7
+schneider_electric;Schneider Electric
+power_measurement;Power Measurement
+power_logic;PowerLogic
+telemecanique_bxm;Telemecanique BMX
+schneider_web;Schneider-WEB
+fujitsu_serverview;Fujitsu Serverview
+eiportal;eiPortal
+ilon;i.LON
+webvisu;Webvisu
+total_access;Total Access
+vantage_infusion;Vantage InFusion
+automation_direct_hmi;AutomationDirect HMI
+sensoteq;Sensoteq
+sicon-8;Sicon-8
+flotrac;FloTrac
+innotech_bms;Innotech BMS
+skylog;Skylog
+miele@home;Miele@home
+alphacom;Alphacom
+simplex_grinnell;SimplexGrinnell
+bosch_security;Bosch Security
+other_hmi;Other HMI
+fronius;Fronius
+webview;Webview
+siemens_Sm@rtClient;Siemens Sm@rtClient
+WAGO;WAGO
+sensatronics;Sensatronics
+extron;Extron Electronics
+mikrotik_streetlighs;Mikrotik Streetlight
+kesseltronics;Kesseltronics
+unitronics;Unitronics
+atvise;Atvise
+clearSCADA;ClearSCADA
+youless;Youless
+DLILPC;DLILPC
+intelliSlot;IntelliSlot
+temperature_monitor;Temperature Monitor
+CirCarLife;CirCarLife
+web_scada;Web Scada
+kaco;KACO
+indect_parkway;IndectParkway
+intuitive_Controller;Intuitive Controller
+intuitive_controller_2;Intuitive Controller 2
+homeLYnk;homeLYnk
+APC;APC
+netio;Netio
+asi_controls;ASI Controls
+myscada;MyScada
+iB-COM;iB-COM
+building_operation_webstation;Building Operations
+ftp_scada;FTP Scada
+apc_ftp;APC FTP
+network_management_card;Network Management Card APC
+wemo_insight;Wemo Insight
+connect_ups;ConnectUPS
+upshttpd;upshttpd
+poweragent;PowerAgent
+CS121;CS121 UPS

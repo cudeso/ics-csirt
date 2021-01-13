@@ -1,0 +1,7 @@
+mqtt;MQTT
+printer;Printers
+rdp;RDP
+vnc;VNC
+screenshot;Screenshot
+contec;Contec Smart Home
+lutron;lutron

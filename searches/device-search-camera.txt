@@ -1,0 +1,25 @@
+webcam;Webcam
+rtsp;RTSP
+sq;SQ-WEBCAM
+ipcamera;IPCamera_Logo
+yawcam;Yawcam
+blueiris;Blue Iris
+ubnt;UBNT
+go1984;go1984
+dlink;Dlink
+ipcamera;IPCAMERA
+avtech;AVTech
+adh;ADH
+axis;Axis Live
+netwave;Netwave
+bbvs;SecuritySpy
+baudisch;Baudisch
+loxone_intercom;Loxone Intercom
+amcrest;Amcrest
+techwin;Techwin
+webcamxp;WebcamXP
+vivotek;Vivotek
+mobotix;Mobotix
+iqinvision;IQinVision
+grandstream;Grandstream
+videoiq;VideoIQ
